@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-client/static/css/main.02db5940.css",
+    "main.js": "/react-client/static/js/main.6edf16a1.js",
+    "static/media/barcelona.jpg": "/react-client/static/media/barcelona.5e53e4b331c59e7248c9.jpg",
+    "static/media/damascus.jpg": "/react-client/static/media/damascus.b46164b0214f5ca83e2f.jpg",
+    "static/media/marrakech.jpg": "/react-client/static/media/marrakech.d76e0bcc7835f99ca3a5.jpg",
+    "static/media/petra.jpg": "/react-client/static/media/petra.14b1d7cc248be0c0b0b0.jpg",
+    "static/media/rome.jpg": "/react-client/static/media/rome.c0cb3957a068625df334.jpg",
+    "static/media/manhattan.jpg": "/react-client/static/media/manhattan.1cad42cb193545f8cd18.jpg",
+    "static/media/cairo.jpg": "/react-client/static/media/cairo.e2a5ad94564af9f132de.jpg",
+    "static/media/cappadocia.jpg": "/react-client/static/media/cappadocia.21bc90e828736d7016ea.jpg",
+    "static/media/ahmed.jpg": "/react-client/static/media/ahmed.35882a7c14c548d307b1.jpg",
+    "index.html": "/react-client/index.html",
+    "main.02db5940.css.map": "/react-client/static/css/main.02db5940.css.map",
+    "main.6edf16a1.js.map": "/react-client/static/js/main.6edf16a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02db5940.css",
+    "static/js/main.6edf16a1.js"
+  ]
+}
